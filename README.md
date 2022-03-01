@@ -19,7 +19,7 @@ I'm a Software Engineer Student at Universidade do Minho. Here are some facts ab
 ![](https://img.shields.io/badge/pandas-%236e7b8f.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/scikit--learn-%236e7b8f.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-%236e7b8f.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-%236e7b8f.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/Keras-%236e7b8f.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ### Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZePinto99&layout=compact&theme=radical&langs_count=8)](https://github.com/ZePinto99/)
