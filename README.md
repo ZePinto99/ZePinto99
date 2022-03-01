@@ -6,6 +6,7 @@ I'm a Software Engineer Student at Universidade do Minho. Here are some facts ab
 
 ![](https://img.shields.io/badge/OS-Linux-957DAD?style=flat&logo=linux&logoColor=white&color=2bbc8a&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-957DAD?style=flat&logo=windows&logoColor=white&color=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual%20Studio-9E7E8B.svg?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-9E7E8B.svg?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJIDEA-9E7E8B.svg?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-java-%2396A2FF.svg?style=flat&logo=java&logoColor=white&color=2bbc8a)
