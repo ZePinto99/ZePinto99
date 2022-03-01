@@ -12,7 +12,6 @@ I'm a Software Engineer Student at Universidade do Minho. Here are some facts ab
 ![](https://img.shields.io/badge/python-96A2FF?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/c-%2396A2FF.svg?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/c%23-%2396A2FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/c++-%2396A2FF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/mysql-%239799ba.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%239799ba.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/numpy-%236e7b8f.svg?style=for-the-badge&logo=numpy&logoColor=white)
