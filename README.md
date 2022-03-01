@@ -4,6 +4,7 @@ I'm a Software Engineer Student at Universidade do Minho. Here are some facts ab
 
 ### Technologies & Tools
 
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Linux-957DAD?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Windows-957DAD?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-9E7E8B.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
