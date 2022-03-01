@@ -2,6 +2,9 @@
 
 I'm a Software Engineer Student at Universidade do Minho. Here are some facts about me:
 
+### Top Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZePinto99&layout=compact&theme=radical&langs_count=8)](https://github.com/ZePinto99/)
+
 - 🔭 I’m currently working on my Master Thesis ```Automatic driving: 2D detection and tracking using AI techniques```
 - 📫 Contacts:
 
@@ -10,7 +13,3 @@ I'm a Software Engineer Student at Universidade do Minho. Here are some facts ab
 
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-pinto-b60725114/
 [email]: mailto:z.miguelpinto@gmail.com
-
-
-### Top Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZePinto99&layout=compact&theme=radical&langs_count=8)](https://github.com/ZePinto99/)
