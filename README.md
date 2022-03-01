@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-I'm a Software Engineer Student at Universidade do Minho. Here are some facts about me:
+I'm a Software Engineer Student at Universidade do Minho. Here are some facts about me.
 
 ### Technologies & Tools
 
