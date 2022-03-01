@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello world! 👋
 
-<!--
-**ZePinto99/ZePinto99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer Student at Universidade do Minho. Here are some facts about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my Master Thesis ```Automatic driving: 2D detection and tracking using AI techniques```
+- 📫 Contacts:
+[<img align="left" alt="LinkedIn" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
+[<img align="left" alt="Gmail" width="25px" src="https://image.flaticon.com/icons/png/512/281/281769.png"/>][email] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/jos%C3%A9-pinto-b60725114/
+[email]: mailto:z.miguelpinto@gmail.com
+
+### Top Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZePinto99&layout=compact&theme=radical&langs_count=8)](https://github.com/ZePinto99/)
+### My Github Stats
+[![Demorales's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZePinto99&show_icons=true&theme=radical)](https://github.com/ZePinto99/)
+
+
+![ZePinto99's github stats](https://github-readme-stats.vercel.app/api?username=ZePinto99&count_private=true&show_icons=true&theme=dracula)
