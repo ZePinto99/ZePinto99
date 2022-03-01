@@ -21,9 +21,6 @@ I'm a Software Engineer Student at Universidade do Minho. Here are some facts ab
 ![](https://img.shields.io/badge/Library-TensorFlow-%236e7b8f.svg?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-Keras-%236e7b8f.svg?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
 
-### Top Languages Used
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ZePinto99" frameborder="0"></iframe>
-
 - 🔭 I’m currently working on my Master Thesis ```Automatic driving: 2D detection and tracking using AI techniques```
 - 📫 Contacts: 
 
