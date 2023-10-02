@@ -22,7 +22,7 @@ I'm a Software Engineer Student at Universidade do Minho. Here are some facts ab
 ![](https://img.shields.io/badge/Library-TensorFlow-%236e7b8f.svg?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-Keras-%236e7b8f.svg?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on my Master Thesis ```Automatic driving: 2D detection and tracking using AI techniques```
+- 🔭 Master Thesis ```Automatic driving: 2D detection and tracking using AI techniques```
 - 📫 Contacts: 
  Linkedin: https://www.linkedin.com/in/jos%C3%A9-pinto-b60725114/
  Email: z.miguelpinto@gmail.com
